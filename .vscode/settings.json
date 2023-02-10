@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "baudrate",
+        "binstart",
         "embuild",
         "gpio",
         "uart"
